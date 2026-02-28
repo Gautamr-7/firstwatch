@@ -104,7 +104,7 @@ date_str = now.strftime("%d %b %Y")
 # ── NAV BAR ──
 st.markdown(f"""
 <div class="nav-bar">
-  <div class="nav-logo">Guardian<span>AI</span> &nbsp;·&nbsp; Flink Emergency Response</div>
+  <div class="nav-logo">Volt<span>AI</span> &nbsp;·&nbsp; Flink Emergency Response</div>
   <div class="nav-right">
     <span>CAM_001 · CUSAT Main Gate</span>
     <span>{date_str} &nbsp; {ts}</span>
@@ -253,3 +253,4 @@ with col_right:
 time.sleep(2)
 
 st.rerun()
+
