@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 # --- UI CONFIG ---
-st.set_page_config(page_title="Guardian AI Dashboard", layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Volt AI Dashboard", layout="wide", initial_sidebar_state="collapsed")
 
 st.markdown("""
 <style>
@@ -251,4 +251,5 @@ with col_right:
 
 # ── AUTO-REFRESH ──
 time.sleep(2)
+
 st.rerun()
