@@ -7,20 +7,6 @@
 
 **Turning "Bystander Voyeurism" into a Life-Saving Sensor Network.** Built for INNOBOT 2.0 (Healthcare & Smart Living Track).
 
------
-
-##  Table of Contents
-
-  - [The Problem](https://www.google.com/search?q=%23-the-problem)
-  - [The Solution](https://www.google.com/search?q=%23-the-solution)
-  - [System Architecture](https://www.google.com/search?q=%23-system-architecture)
-  - [Tech Stack](https://www.google.com/search?q=%23-tech-stack)
-  - [Key Features](https://www.google.com/search?q=%23-key-features)
-  - [Installation & Setup](https://www.google.com/search?q=%23-installation--setup)
-  - [Usage Workflow](https://www.google.com/search?q=%23-usage-workflow)
-  - [Team](https://www.google.com/search?q=%23-team)
-
------
 
 ##  The Problem
 
